@@ -24,5 +24,3 @@ pip xekmat
 - [ ] Não pode esqueça de nada
 - [ ] Se esqucer , então lembre-se daquilo que não foi lembrado.
 
-![kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.jpg](images/img_1782152901188_a1e506c68751f8.jpeg)kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
- 
